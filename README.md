@@ -1,2 +1,5 @@
 # Supervision-IoT
-Projet de supervision en temps réel avec Raspberry Pi et automate S7-1200
+mkdir mon-projet  # Crée un dossier nommé "mon-projet"
+cd mon-projet     # Entre dans le dossier
+git init          # Initialise un dépôt Git dans ce dossier
+git status        # Vérifie l'état du dépôt
